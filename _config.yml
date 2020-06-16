@@ -21,7 +21,7 @@
 title: Bob's Septic Plumbing!
 email: bob@bobssepticplumbing.com
   For ALL your septic plumbing needs!
-baseurl: "bobssepticplumbing" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: bobsseptic
 #github_username:  bobsseptic
