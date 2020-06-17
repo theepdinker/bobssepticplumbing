@@ -6,4 +6,5 @@ categories: bees, video
 ---
 A magnificent bumble bee!
 
-<iframe width="240" height="480" src="/assets/bee.mp4" frameborder="0" allowfullscreen> </iframe>
+<iframe width="240" height="480" src="/assets/bee.mp4" title="video of a bumble bee" frameborder="0" allowfullscreen> video of a bumble bee </iframe>
+*attribution: Don Cook, [Creative Commons Attribution-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-sa/4.0/)*
