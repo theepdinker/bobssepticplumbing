@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Bob's bees!"
+date:   2020-06-17 08:00:20 -0700
+categories: bees, video
+---
+A magnificent bumble bee!
+
+<iframe width="240" height="480" src="/assets/bee.mp4" frameborder="0" allowfullscreen> </iframe>
